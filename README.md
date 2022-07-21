@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankarkoley&label=Profile%20views&color=0e75b6&style=flat" alt="priyankarkoley" /> </p>
 
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankarkoley" alt="priyankarkoley" /></a> </p>
+-->
 
 <p align="left"> <a href="https://twitter.com/priyankarkoley" target="blank"><img src="https://img.shields.io/twitter/follow/priyankarkoley?logo=twitter&style=for-the-badge" alt="priyankarkoley" /></a> </p>
 
