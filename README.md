@@ -35,7 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankarkoley&" alt="priyankarkoley" /></p>
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=priyankarkoley&custom_title=Priyankar%27s%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=priyankarkoley&custom_title=Priyankar%27s%20activity%20graph&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
