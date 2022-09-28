@@ -1,22 +1,12 @@
 <h1 align="center">Hi, I'm Priyankar Koley!!  👋</h1>
 <h3 align="center">A newbie coder from India ❤️</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankarkoley&label=Profile%20views&color=0e75b6&style=flat" alt="priyankarkoley" /> </p>
-
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankarkoley" alt="priyankarkoley" /></a> </p>
--->
-
-<p align="left"> <a href="https://twitter.com/priyankarkoley" target="blank"><img src="https://img.shields.io/twitter/follow/priyankarkoley?logo=twitter&style=for-the-badge" alt="priyankarkoley" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankarkoley" alt="priyankarkoley" /></a> </p>-->
 
 - 🌱 I’m currently learning **C, C++, Java & Python**
-
 - 💬 Ask me about **photography**
-
-- 🔭 My next target is to learn **Android Development**
-
 - ⚡ Fun fact **I am a Fast Learner.**
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankarkoley&show_icons=true&locale=en" alt="priyankarkoley" /></p>
+<!--- 🔭 My next target is to learn **Android Development**-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankarkoley&theme=dracula&show_icons=true&locale=en" alt="priyankarkoley" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,3 +28,9 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-293%20hunder%20lines%20of%20code-blue)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankarkoley&label=Profile%20views&color=0e75b6&style=flat" alt="priyankarkoley" /> </p>
+<p align="left"> 
+  <a href="https://twitter.com/priyankarkoley" target="blank">
+  <img src="https://img.shields.io/twitter/follow/priyankarkoley?logo=twitter&style=for-the-badge" alt="priyankarkoley" /></a>
+ </p>
