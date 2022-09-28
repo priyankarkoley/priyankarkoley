@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Priyankar Koley!!  👋</h1>
 <h3 align="center">A newbie coder from India ❤️</h3>
 
-- 🌱 I’m currently learning **C, C++, Java & Python**
+- 🌱 I’m currently learning **Android Development**
+- 🔭 My next target is to learn **React JS**
 - 💬 Ask me about **photography**
 - ⚡ Fun fact **I am a Fast Learner.**
-<!--- 🔭 My next target is to learn **Android Development**-->
 
 <!-------------------------Github Stats------------------------->
 
