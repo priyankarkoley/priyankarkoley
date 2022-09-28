@@ -11,13 +11,12 @@
 
 - 🌱 I’m currently learning **C, C++, Java & Python**
 
-- 📫 How to reach me [priyankarkoley@gmail.com](priyankarkoley@gmail.com)
-
 - 💬 Ask me about **photography**
 
 - 🔭 My next target is to learn **Android Development**
 
 - ⚡ Fun fact **I am a Fast Learner.**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankarkoley&show_icons=true&locale=en" alt="priyankarkoley" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +30,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankarkoley&show_icons=true&locale=en&layout=default" alt="priyankarkoley" /></p>
 <p></P>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankarkoley&show_icons=true&locale=en" alt="priyankarkoley" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankarkoley&" alt="priyankarkoley" /></p>
 
