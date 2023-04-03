@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Priyankar Koley!!  👋</h1>
+<h1 align="center">Hi, I'm Priyankar !!  👋</h1>
 <h3 align="center">A newbie coder from India ❤️</h3>
 
 - 🌱 I’m currently learning **Android Development**
