@@ -64,17 +64,17 @@
 <!-------------------------Activity Graph------------------------->
 <br>
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=priyankarkoley&custom_title=Priyankar%27s%20activity%20graph&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyankarkoley&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-------------------------Most Used Languages & Current Streak------------------------->
 
-<p float="left" style="
+<p align ="center" style="
 display: flex;
 align-items: center;
 justify-content: center;
 ">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankarkoley&show_icons=true&locale=en&layout=default" alt="priyankarkoley"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankarkoley&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="priyankarkoley"/>
+    <img src="https://streak-stats.demolab.com?user=priyankarkoley&theme=dracula" alt="priyankarkoley"/>
+    <img src="https://github-stats-barnacle.vercel.app/api/top-langs/?username=priyankarkoley&langs_count=10&layout=compact&theme=dracula&exclude_repo=udemy-basic-html-brad" alt="priyankarkoley"/>
 </p>
 
 <!-------------------------Code Time------------------------->
@@ -94,4 +94,4 @@ justify-content: center;
     </a>
 </p>
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankarkoley" alt="priyankarkoley" /></a> </p>-->
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankarkoley" alt="priyankarkoley" /></a> </p>
