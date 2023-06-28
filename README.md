@@ -10,6 +10,24 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=priyankarkoley&theme=dracula&show_icons=true&locale=en" alt="priyankarkoley"/></p>
 
+    
+<!-------------------------Activity Graph------------------------->
+<br>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyankarkoley&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-------------------------Most Used Languages & Current Streak------------------------->
+
+<p align ="center" style="
+display: flex;
+align-items: center;
+justify-content: center;
+">
+    <img src="https://streak-stats.demolab.com?user=priyankarkoley&theme=dracula" alt="priyankarkoley"/>
+    <img src="https://github-stats-barnacle.vercel.app/api/top-langs/?username=priyankarkoley&langs_count=10&layout=compact&theme=dracula&exclude_repo=udemy-basic-html-brad" alt="priyankarkoley"/>
+</p>
+
+
 <!-------------------------Connect With Me------------------------->
 
 <h3 align="left">Connect with me:</h3>
@@ -59,22 +77,6 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
     </a>
-</p>
-    
-<!-------------------------Activity Graph------------------------->
-<br>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyankarkoley&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-------------------------Most Used Languages & Current Streak------------------------->
-
-<p align ="center" style="
-display: flex;
-align-items: center;
-justify-content: center;
-">
-    <img src="https://streak-stats.demolab.com?user=priyankarkoley&theme=dracula" alt="priyankarkoley"/>
-    <img src="https://github-stats-barnacle.vercel.app/api/top-langs/?username=priyankarkoley&langs_count=10&layout=compact&theme=dracula&exclude_repo=udemy-basic-html-brad" alt="priyankarkoley"/>
 </p>
 
 <!-------------------------Code Time------------------------->
