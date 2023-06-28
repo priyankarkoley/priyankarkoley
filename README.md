@@ -74,7 +74,7 @@ align-items: center;
 justify-content: center;
 ">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankarkoley&show_icons=true&locale=en&layout=default" alt="priyankarkoley"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankarkoley&" alt="priyankarkoley"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankarkoley&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="priyankarkoley"/>
 </p>
 
 <!-------------------------Code Time------------------------->
